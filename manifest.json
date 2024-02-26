@@ -1,0 +1,21 @@
+{
+  "short_name": "VC4A",
+  "name": "VC4A - Accelerating entrepreneurship",
+  "icons": [
+    {
+      "src": "/wp-content/themes/vc4africa/resources/images/favicon/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": "4.0"
+    },
+    {
+      "src": "/wp-content/themes/vc4africa/resources/images/favicon/android-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image\/png",
+      "density": "4.0"
+    }
+  ],
+  "theme_color": "#34b233",
+  "background_color": "#34b233",
+  "start_url": "/?utm_source=manifest"
+}
